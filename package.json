@@ -1,0 +1,26 @@
+{
+  "name": "highlightjs-whitespace",
+  "version": "0.0.1",
+  "description": "highlight.js syntax definition for the esoteric language whitespace",
+  "main": "src/whitespace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/highlightjs/highlightjs-robots-txt.git"
+  },
+  "keywords": [
+    "whitespace",
+    "whitespace-lang",
+    "highlight.js",
+    "highlightjs",
+    "syntax"
+  ],
+  "author": "Thomas LÉVEIL <thomasleveil@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/highlightjs/highlightjs-robots-txt/issues"
+  },
+  "homepage": "https://github.com/highlightjs/highlightjs-robots-txt"
+}
